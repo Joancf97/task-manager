@@ -1,0 +1,23 @@
+{
+  "name": "tasr-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joancf97/task-manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joancf97/task-manager/issues"
+  },
+  "homepage": "https://github.com/Joancf97/task-manager#readme",
+  "dependencies": {
+    "mongoose": "^5.12.8",
+    "validator": "^13.6.0"
+  }
+}
